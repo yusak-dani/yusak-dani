@@ -1,4 +1,12 @@
 ## Hi there 👋, i am Yusak Dani Wijaya 
+💡 Passionate about **software development**, **business innovation**, and **building digital products** that make a difference.  
+🚀 Currently exploring **Next.js**, **Go (Gin)**, and **React Native** to create full-stack and mobile experiences.
+
+### 🧠 About Me
+- 🎓 I'm a developer and project leader passionate about tech and entrepreneurship.  
+- 💼 Experienced in building web and mobile apps like **ZeroWaste** (waste management & AI integration) and **INVENTRONIK** (inventory management).  
+- 🧩 Love combining **business insight** with **tech skills** to create real-world solutions.  
+- 📈 Currently improving my skills in backend architecture & UI design.
 
 
 ## 🌐 Socials:
@@ -20,4 +28,5 @@
 [![](https://visitcount.itsvg.in/api?id=yusak-dani&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+✨ *"Code with purpose, build with passion."*
 -->
