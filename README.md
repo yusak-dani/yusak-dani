@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, i am Yusak Dani Wijaya 
 
 
 ## 🌐 Socials:
